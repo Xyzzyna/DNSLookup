@@ -1,2 +1,2 @@
 # DNSLookup
-This is an open code DNSLookup app
+This is an open souce DNSLookup app
