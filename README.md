@@ -1,2 +1,2 @@
 # DNSLookup
-This is an open souce DNSLookup app
+This is a free and easy DNSLookup app
